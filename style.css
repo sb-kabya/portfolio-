@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.text-cyan {
+  color: cyan;
+}
+
+.btn-cyan {
+  background-color: cyan;
+  color: black !important;
+}
+.btn-cyan:hover {
+  background-color: #00b8cc;
+  color: black;
+}
+
+.social-links a {
+  color: #00e5ff;
+  font-size: 1.5rem;
+  margin-right: 15px;
+}
+
+.profile-pic img {
+  width: 300px;
+}
+
+.badge {
+  background-color: #484747;
+  font-weight: 400;
+}
+
+.contact-box {
+  max-width: 500px;
+  background-color: black;
+  padding: 30px;
+  border: 1px solid #313030;
+}
+
+.form-des {
+  background-color: #1a1919;
+  border: 1px solid #6a6969;
+  color: white;
+}
